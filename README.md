@@ -1,2 +1,2 @@
-# pandemonium
-This unholy repository has to bear the most morbid peaces of code.
+# JavaScript Homeworks
+They are illegal. Modern society MUST ban them.
